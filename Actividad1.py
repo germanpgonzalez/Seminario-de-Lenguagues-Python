@@ -303,7 +303,6 @@ notas1 = list(map(int,notas1))
 notas2 = notas2.replace(',', '').split()
 # Paso la lista notas2 de Strings a enteros
 notas2 = list(map(int,notas2))
-           
-                
+             
 alumnos = estructura_general(nombres,notas1,notas2)
 menu_opciones(alumnos)
