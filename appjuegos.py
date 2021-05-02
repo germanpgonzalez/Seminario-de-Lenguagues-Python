@@ -15,7 +15,7 @@ print(encabezado)
 print()
 print()
 # Imprimo los juegos gratuitos en idioma español
-print("Juegos gratuitos en españo: ")
+print("Juegos gratuitos en español: ")
 print()
 for linea in csvreader:
     if linea[12] == "ES" and linea[7] == '0':
