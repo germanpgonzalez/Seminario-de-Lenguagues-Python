@@ -18,7 +18,8 @@ def opcion1():
      data = []
      bandera = True
      cant = 0
-     imdb_raiting = float(7.0)
+     maximo = 10
+     imdb_raiting = 7.0
      while bandera:
          for linea in csvreader:
              if float(linea[17]) > imdb_raiting:
@@ -27,7 +28,7 @@ def opcion1():
                  json.dump(data,archivo_json)
                  archivo_json.close()
                  cant += 1
-                 if cant == 10:
+                 if cant == maximo:
                      bandera = False
                      break
      archivo_disney.close()
@@ -50,7 +51,8 @@ def opcion2():
      data = []
      bandera = True
      cant = 0
-     casos_confirmados = int(2000000)
+     maximo = 10
+     casos_confirmados = 2000000
      while bandera:
          for linea in csvreader:
              if int(linea[2]) > casos_confirmados:
@@ -59,7 +61,7 @@ def opcion2():
                  json.dump(data,archivo_json)
                  archivo_json.close()
                  cant += 1
-                 if cant == 10:
+                 if cant == maximo:
                      bandera = False
                      break
      archivo_covid.close()
