@@ -19,10 +19,10 @@ def opcion1():
      bandera = True
      cant = 0
      maximo = 10
-     imdb_raiting = 7.0
+     imdb_raiting = '7.0'
      while bandera:
          for linea in csvreader:
-             if float(linea[17]) > imdb_raiting:
+             if linea[17] > imdb_raiting:
                  data.append({"Title: ": linea[1], "Year: ": linea[5], "Genere: ":linea[9], "Imdb Raiting: ":linea[17]})
                  archivo_json = open("disney.json","w")
                  json.dump(data,archivo_json, indent = 4)
