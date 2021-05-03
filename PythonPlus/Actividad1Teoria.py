@@ -25,7 +25,7 @@ def opcion1():
              if float(linea[17]) > imdb_raiting:
                  data.append({"Title: ": linea[1], "Year: ": linea[5], "Genere: ":linea[9], "Imdb Raiting: ":linea[17]})
                  archivo_json = open("disney.json","w")
-                 json.dump(data,archivo_json)
+                 json.dump(data,archivo_json, indent = 4)
                  archivo_json.close()
                  cant += 1
                  if cant == maximo:
@@ -58,7 +58,7 @@ def opcion2():
              if int(linea[2]) > casos_confirmados:
                  data.append({"Pais: ":linea[0], "Continente: ":linea[1], "Casos confirmados: ":linea[2]})
                  archivo_json = open("covid19.json","w")
-                 json.dump(data,archivo_json)
+                 json.dump(data,archivo_json, indent = 4 )
                  archivo_json.close()
                  cant += 1
                  if cant == maximo:
