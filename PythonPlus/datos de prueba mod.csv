@@ -1,0 +1,95 @@
+,Tiempo,Partida,Cantidad total de palabras a adivinar,Nombre de evento,Usuarie - nick,usuarie -genero,usuarie -edad,Estado ,Palabra,nivel,dias
+0,1621436490,1,5,inicio_partida,pepe,masculino,22,,,medio,lunes
+1,1621436491,1,5,intento,pepe,masculino,22,error,CASA,medio,martes
+2,1621436492,1,5,intento,pepe,masculino,22,error,CASA,medio,miercoles
+3,1621436493,1,5,intento,pepe,masculino,22,ok,CASA,medio,jueves
+4,1621436494,1,5,intento,pepe,masculino,22,error,PERRO,medio,viernes
+5,1621436495,1,5,intento,pepe,masculino,22,error,PERRO,medio,sabado
+6,1621436496,1,5,intento,pepe,masculino,22,error,GATO,medio,domingo
+7,1621436497,1,5,intento,pepe,masculino,22,error,GATO,medio,lunes
+8,1621436498,1,5,intento,pepe,masculino,22,error,PERRO,medio,martes
+9,1621436499,1,5,intento,pepe,masculino,22,error,PERRO,medio,miercoles
+10,1621436500,1,5,intento,pepe,masculino,22,error,PERRO,medio,jueves
+11,1621436501,1,5,intento,pepe,masculino,22,error,PERRO,medio,viernes
+12,1621436502,1,5,intento,pepe,masculino,22,ok,GATO,medio,sabado
+13,1621436503,1,5,intento,pepe,masculino,22,ok,PERRO,medio,domingo
+14,1621436504,1,5,intento,pepe,masculino,22,error,SILLA,medio,lunes
+15,1621436505,1,5,intento,pepe,masculino,22,error,MESA,medio,martes
+16,1621436506,1,5,intento,pepe,masculino,22,error,SILLA,medio,miercoles
+17,1621436507,1,5,intento,pepe,masculino,22,error,SILLA,medio,jueves
+18,1621436508,1,5,intento,pepe,masculino,22,ok,SILLA,medio,viernes
+19,1621436511,1,5,fin,pepe,masculino,22,timeout,,medio,sabado
+20,1621436512,2,4,inicio_partida,jose,no binarie,15,,,fácil,domingo
+21,1621436513,2,4,intento,jose,no binarie,15,ok,MESA,fácil,lunes
+22,1621436514,2,4,intento,jose,no binarie,15,error,SILLA,fácil,martes
+23,1621436515,2,4,intento,jose,no binarie,15,error,GATO,fácil,miercoles
+24,1621436516,2,4,intento,jose,no binarie,15,error,SILLA,fácil,jueves
+25,1621436517,2,4,intento,jose,no binarie,15,ok,SILLA,fácil,viernes
+26,1621436518,2,4,intento,jose,no binarie,15,error,GATO,fácil,sabado
+27,1621436519,2,4,intento,jose,no binarie,15,error,GATO,fácil,domingo
+28,1621436520,2,4,intento,jose,no binarie,15,error,GATO,fácil,lunes
+29,1621436521,2,4,intento,jose,no binarie,15,ok,GATO,fácil,martes
+30,1621436522,2,4,intento,jose,no binarie,15,error,PERRO,fácil,miercoles
+31,1621436523,2,4,intento,jose,no binarie,15,ok,PERRO,fácil,jueves
+32,1621436524,2,4,fin,jose,no binarie,15,finalizada,,fácil,viernes
+33,1621446323,3,6,inicio_partida,clementina,femenino,45,,,difícil,sabado
+34,1621446324,3,6,intento,clementina,femenino,45,error,PERRO,difícil,domingo
+35,1621446325,3,6,intento,clementina,femenino,45,error,GATO,difícil,lunes
+36,1621446326,3,6,intento,clementina,femenino,45,ok,GATO,difícil,martes
+37,1621446327,3,6,intento,clementina,femenino,45,error,PERRO,difícil,miercoles
+38,1621446328,3,6,intento,clementina,femenino,45,ok,MESA,difícil,jueves
+39,1621446329,3,6,intento,clementina,femenino,45,error,PERRO,difícil,viernes
+40,1621446330,3,6,intento,clementina,femenino,45,ok,PERRO,difícil,sabado
+41,1621446331,3,6,intento,clementina,femenino,45,error,SILLA,difícil,domingo
+42,1621446332,3,6,intento,clementina,femenino,45,ok,SILLA,difícil,lunes
+43,1621446333,3,6,intento,clementina,femenino,45,ok,BANCO,difícil,martes
+44,1621446334,3,6,intento,clementina,femenino,45,ok,PAJARO,difícil,miercoles
+45,1621446335,3,6,fin,clementina,femenino,45,finalizada,,difícil,jueves
+46,1621446336,4,6,inicio_partida,jose,no binarie,15,,,difícil,viernes
+47,1621446337,4,6,intento,jose,no binarie,15,error,SILLA,difícil,sabado
+48,1621446338,4,6,intento,jose,no binarie,15,error,MESA,difícil,domingo
+49,1621446339,4,6,intento,jose,no binarie,15,error,MESA,difícil,lunes
+50,1621446340,4,6,intento,jose,no binarie,15,error,SILLA,difícil,martes
+51,1621446341,4,6,intento,jose,no binarie,15,error,GATO,difícil,miercoles
+52,1621446342,4,6,intento,jose,no binarie,15,ok,SILLA,difícil,jueves
+53,1621446343,4,6,intento,jose,no binarie,15,error,MESA,difícil,viernes
+54,1621446344,4,6,intento,jose,no binarie,15,ok,MESA,difícil,sabado
+55,1621446345,4,6,intento,jose,no binarie,15,error,PERRO,difícil,domingo
+56,1621446346,4,6,intento,jose,no binarie,15,ok,GATO,difícil,lunes
+57,1621446347,4,6,intento,jose,no binarie,15,error,PERRO,difícil,martes
+58,1621446348,4,6,intento,jose,no binarie,15,error,PERRO,difícil,miercoles
+59,1621446349,4,6,intento,jose,no binarie,15,error,PERRO,difícil,jueves
+60,1621446350,4,6,intento,jose,no binarie,15,error,PERRO,difícil,viernes
+61,1621446351,4,6,intento,jose,no binarie,15,error,PERRO,difícil,sabado
+62,1621446352,4,6,intento,jose,no binarie,15,error,PERRO,difícil,domingo
+63,1621446353,4,6,fin,jose,no binarie,15,timeout,,difícil,lunes
+64,1621436554,5,4,inicio_partida,clara,trans,31,,,fácil,martes
+65,1621436555,5,4,intento,clara,trans,31,error,PERRO,fácil,miercoles
+66,1621436556,5,4,intento,clara,trans,31,error,SILLA,fácil,jueves
+67,1621436557,5,4,intento,clara,trans,31,ok,PERRO,fácil,viernes
+68,1621436558,5,4,intento,clara,trans,31,error,GATO,fácil,sabado
+69,1621436559,5,4,intento,clara,trans,31,ok,MESA,fácil,domingo
+70,1621436560,5,4,intento,clara,trans,31,error,GATO,fácil,lunes
+71,1621436561,5,4,intento,clara,trans,31,ok,GATO,fácil,martes
+72,1621436562,5,4,intento,clara,trans,31,error,SILLA,fácil,miercoles
+73,1621436563,5,4,intento,clara,trans,31,error,SILLA,fácil,jueves
+74,1621436564,5,4,intento,clara,trans,31,error,SILLA,fácil,viernes
+75,1621436565,5,4,intento,clara,trans,31,ok,SILLA,fácil,sabado
+76,1621436569,5,4,fin,clara,trans,31,finalizada,,fácil,domingo
+77,1621436570,6,5,inicio_partida,raul,masculino,55,,,medio,lunes
+78,1621436571,6,5,intento,raul,masculino,55,error,SILLA,medio,martes
+79,1621436572,6,5,intento,raul,masculino,55,error,MESA,medio,miercoles
+80,1621436573,6,5,intento,raul,masculino,55,error,MESA,medio,jueves
+81,1621436574,6,5,intento,raul,masculino,55,error,PAJARO,medio,viernes
+82,1621436575,6,5,intento,raul,masculino,55,error,PAJARO,medio,sabado
+83,1621436576,6,5,intento,raul,masculino,55,error,MESA,medio,domingo
+84,1621436577,6,5,intento,raul,masculino,55,error,MESA,medio,lunes
+85,1621436578,6,5,fin,raul,masculino,55,timeout,,medio,martes
+86,1621449115,7,6,inicio_partida,flor,femenino,22,,,difícil,miercoles
+87,1621449116,7,6,intento,flor,femenino,22,ok,SILLA,difícil,jueves
+88,1621449117,7,6,intento,flor,femenino,22,ok,CASA,difícil,viernes
+89,1621449118,7,6,intento,flor,femenino,22,ok,MESA,difícil,sabado
+90,1621449119,7,6,intento,flor,femenino,22,ok,PERRO,difícil,domingo
+91,1621449120,7,6,intento,flor,femenino,22,ok,GATO,difícil,lunes
+92,1621449121,7,6,intento,flor,femenino,22,ok,MOCHILA,difícil,martes
+93,1621449136,7,6,fin,flor,femenino,22,finalizada,,difícil,miercoles
